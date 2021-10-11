@@ -5,6 +5,7 @@ Simulating Real-World Processes With Python (A movie theater as a case study)
 The file ```main.py``` contains the code base taking up OOP from the ```movie_theater.py``` file. You can execute the code by running ```python3 main.py``` from the directory that contains the file.
 
 Here are some sample output:
+
 1.
 ```
 Input the number of working cashiers: 4
