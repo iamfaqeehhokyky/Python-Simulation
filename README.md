@@ -10,4 +10,4 @@ Here is some sample output:
 Input the number of working servers: 3
 Input the number of working ushers: 1
 Running simulation... 
-The average wait time is 29 minutes and 2 seconds.```
+The average wait time is 29 minutes and 2 seconds.
