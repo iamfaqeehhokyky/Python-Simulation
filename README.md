@@ -6,8 +6,11 @@ The file ```main.py``` contains the code base taking up OOP from the ```movie_th
 
 Here is some sample output:
 
-```Input the number of working cashiers: 4
+```
+Input the number of working cashiers: 4
 Input the number of working servers: 3
 Input the number of working ushers: 1
 Running simulation... 
+
 The average wait time is 29 minutes and 2 seconds.
+```
